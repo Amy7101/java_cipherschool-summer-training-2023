@@ -1,24 +1,20 @@
-public class  {
-    public static void main(String args[]) {
-        float f = (float) 5.5; // by default considers decimal to be double
-        double d = 10.5;
-        float f2 = 5.5f;
-        char ch = 'a';
-        int x=5;
-        int y=9;
-        int z=x+y; //here '+' is an operator rest are operands
-        System.out.println("sum is : "+ z);
-        System.out.println("char is : " + ch);
-        System.out.println("f is : " + f);
-        System.out.println("f2 is : " + f2);
-        System.out.println("d is : " + d);
+Features of Java--------------------
 
-        //Increment and Decrement Operators
-        //x++; post-increment;
-        System.out.println("Post-Increment of x is x++ : "+ x++);
-
-        //++x; pre-increment;
-        System.out.println("Pre-Increment of x is ++x : "+ ++x);
+The primary objective of Java programming language creation was to make it portable, simple and secure programming language. Apart from this, there are also some excellent features which play an important role in the popularity of this language. The features of Java are also known as Java buzzwords.
+A list of the most important features of the Java language is given below.
+  ->Java Features
+  ->Simple
+  ->Object-Oriented
+  ->Portable
+  ->Platform independent
+  ->Secured
+  ->Robust
+  ->Architecture neutral
+  ->Interpreted
+  ->High Performance
+  ->Multithreaded
+  ->Distributed
+  ->Dynamic
 
 
 
